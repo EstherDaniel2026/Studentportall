@@ -1,3 +1,2 @@
-# Student Portal
-
-Updated project documentation.# Studentportall
+git add README.md
+git commit -m "Updated README file"
